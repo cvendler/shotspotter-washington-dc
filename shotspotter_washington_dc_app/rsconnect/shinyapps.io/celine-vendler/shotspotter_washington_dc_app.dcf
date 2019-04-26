@@ -1,0 +1,12 @@
+name: shotspotter_washington_dc_app
+title: shotspotter_washington_dc_app
+username:
+account: celine-vendler
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 892275
+bundleId: 2040762
+url: https://celine-vendler.shinyapps.io/shotspotter_washington_dc_app/
+when: 1556271884.1143
+asMultiple: FALSE
+asStatic: FALSE
